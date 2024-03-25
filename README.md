@@ -12,3 +12,5 @@ and install Selenium - https://www.selenium.dev/
   - after that you should be good to go on running the script
 
 If you find this useful, please feel to buy me a beer @GoChadTV (Venmo) - $GoChadTV (CashApp)
+
+To see a working example of this, goto; https://rumble.com/CountryMusicRdo/live
