@@ -7,7 +7,7 @@ I have found the script runs in just under 10secs in CMD and PowerShell.
 INSTALLATION;
 just need to install Python - https://www.python.org/
 and install Selenium - https://www.selenium.dev/
-  - you want the web driver from them docs here; https://www.selenium.dev/documentation/webdriver/
+  - you want the web driver, there docs are here; https://www.selenium.dev/documentation/webdriver/
   - basically from PowerShell i type; pip install selenium
   - after that you should be good to go on running the script
 
