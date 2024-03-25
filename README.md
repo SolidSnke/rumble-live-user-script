@@ -9,6 +9,6 @@ and install Selenium - https://www.selenium.dev/
   - basically from PowerShell i type; pip install selenium
   - after that you should be good to go on running the script
 
-If you find this useful, please feel to buy me a beer @GoChadTV (Venmo) - $GoChadTV (CashApp)
+If you find this useful, please feel to buy me a beer @GoChadTV (Venmo) - $GoChadTV (CashApp) - https://ko-fi.com/gochadtv 
 
 To see a working example of this, goto; https://rumble.com/CountryMusicRdo/live
