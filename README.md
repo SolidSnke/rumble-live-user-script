@@ -5,7 +5,7 @@ I run this on a windows machine using Task Scheduler and in a batch file. I have
 INSTALLATION;
 just need to install Python - https://www.python.org/
 and install Selenium - https://www.selenium.dev/
-  - you want the web driver, there docs are here; https://www.selenium.dev/documentation/webdriver/
+  - you want the web driver, there docs are here; https://www.selenium.dev/documentation/webdriver/ the easiest thing to do here, is just install the latest version of the web browser chrome.
   - basically from PowerShell i type; pip install selenium
   - after that you should be good to go on running the script
 
